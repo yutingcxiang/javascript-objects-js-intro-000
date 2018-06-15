@@ -1,6 +1,6 @@
 var playlist = {"Maroon 5":"Animals"};
 
 function updatePlaylist(playlist, artistName, songTitle) {
-  plist[aname] = stitle;
+  playlist[aname] = stitle;
   return plist;
 }
